@@ -1,0 +1,1 @@
+http://test-gh-staticwebapp.waypoint.automation-blog.ca
